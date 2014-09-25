@@ -5,5 +5,6 @@ git clone https://github.com/jay3dec/M-Project-Sample-App_1
 cd M-Project-Sample-App_1
 npm install
 bower install
+grunt server
 ```
 
